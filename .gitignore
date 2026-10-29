@@ -1,0 +1,6 @@
+*.pyc
+*_pb2.py
+llm_log/
+stratagem_runs/
+*.egg-info/
+__pycache__/
